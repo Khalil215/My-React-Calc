@@ -73,6 +73,7 @@ button {
   font-size: 20px;
   font-weight: bold;
   opacity: .8;
+color: black;
 }
 
 button:hover {
