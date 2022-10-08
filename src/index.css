@@ -97,7 +97,7 @@ button:hover {
 @media (max-width:460px){
   
   .calculator{
-    margin-top: 70px;
+    margin-top: 50px;
     width: 280px;
     height: 500px;
     grid-template-rows: 110px 390px;
